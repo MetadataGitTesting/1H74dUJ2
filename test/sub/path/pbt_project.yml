@@ -1,0 +1,49 @@
+name: arnold.fritsch
+description: bandwidth-monitored
+version: 0.0.1
+author: gpljxsn1.4nr6w91a@ni8vgsw8.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: arnoldfritsch
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:37:17'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:37:17'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:37:17.202247Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '330290633'
+  createdAt: '2024-12-20T20:37:17.202247Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
